@@ -101,7 +101,8 @@ img {
 }
 
 .card img {
-  height: 450px;
+  height: 300px;
+  margin-top: 30%;
 }
 
 .card h3 {
