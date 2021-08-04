@@ -7,5 +7,3 @@ toggleButton.addEventListener('click', () => {
 })
 
 
-
-alert('hellow wor')
